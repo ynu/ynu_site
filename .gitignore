@@ -1,0 +1,5 @@
+# idea project files
+.idea
+
+# node dependences files
+node_modules
